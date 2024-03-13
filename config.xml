@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="lgarin211.github.io" version="1.0.0" xmlns="http://www.w3.org/ns/widgets"
+<widget id="https://github.com/Ipenkk" version="1.0.0" xmlns="http://www.w3.org/ns/widgets"
     xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>alex</name>
     <description>YOUR APPS DESCRIPTION</description>
-    <author email="frankywilliam18@gmail.com" href="https://lgarin211.github.io">
+    <author email="frankywilliam18@gmail.com" href="https://github.com/Ipenkk">
         YOUR EMAIL
     </author>
     <content src="index.html" />
