@@ -2,9 +2,14 @@
 <widget id="Ipenkk.github.io" version="1.0.0" xmlns="http://www.w3.org/ns/widgets"
     xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>EqualizeMe</name>
-    <description>YOUR APPS DESCRIPTION</description>
+    <description>Sebuah aplikasi yang dirancang untuk membantu pengguna menghindari pelecahan seksual dan kekerasan seksual. Aplikasi ini dilengkapi dengan tombol alarm darurat yang dapat diaktifkan pengguna untuk memicu suara peringatan dan fitur pelaporan untuk memberikan dukungan kepada korban.</description>
     <author email="frankywilliam18@gmail.com" href="https://Ipenkk.github.io">
-        YOUR EMAIL
+        franky.william@binus.ac.id
+        rodrick.felixson@binus.ac.id
+        alvina.krisendi@binus.ac.id
+        shandez.darlene@binus.ac.id
+        evan.audi@binus.ac.id
+        alexsandro.gole@binus.ac.id
     </author>
     <content src="index.html" />
     <allow-navigation href="https://*" />
